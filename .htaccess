@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^([a-zA-Z0-9-/]+)/raw/?$ api/raw.php?code=$1
+RewriteRule ^([a-zA-Z0-9-/]+)/?$ api/code.php?code=$1
