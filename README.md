@@ -1,4 +1,4 @@
 # hastebin
 
-#TODO:
-# - Design all page
+TODO:
+- Design all page
